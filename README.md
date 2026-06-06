@@ -1,4 +1,4 @@
 # github-demo
 this is my first git repository.
 <br>
-author - utkarsh sharma
+author - utkarsh sharma(student)
